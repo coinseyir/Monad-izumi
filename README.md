@@ -1,4 +1,8 @@
 # izumiswap için hazırlanmış Monad ağında wrap and unwrap scripti
+Sybill falan takılırsanız bilemem. İsterseniz farklı cüzdanınızla yapın.
+Önce yukarıdan fork yapıp kendinize çekin. Birkaç güne kaldıracağım
+
+
 het 55 dakikada bir çalışır, birkaç tane işlem yapar, her işlem arasında bir müddet bekler
 
     git clone https://github.com/madmin27/Monad-izumi.git

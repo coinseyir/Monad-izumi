@@ -10,7 +10,7 @@ het 55 dakikada bir çalışır, birkaç tane işlem yapar, her işlem arasında
     nano .env
 start check
 
-    node main.js
+    node izumiMonad.js
 
 is okey add,  add crontab
 

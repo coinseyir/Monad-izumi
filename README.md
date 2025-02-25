@@ -15,6 +15,7 @@ start check
 is okey add,  add crontab
 
     crontab -e
-*/55 * * * * cd /root/Monad-izumi  && node izumiMonad.js >> /root/Monad-izumi /izumiswap.txt 2>&1  
+*/55 * * * * */55 * * * * cd /root/Monad-izumi && node izumiMonad.js >> /root/Monad-izumi/izumiswap.txt 2>&1
+  
   
 

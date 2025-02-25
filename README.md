@@ -1,8 +1,8 @@
 # izumiswap için hazırlanmış Monad ağında wrap and unwrap scripti
 het 55 dakikada bir çalışır, birkaç tane işlem yapar, her işlem arasında bir müddet bekler
 
-    git clone https://github.com/madmin27/izumiswap.git
-    cd izumiswap
+    git clone https://github.com/madmin27/Monad-izumi.git
+    cd Monad-izumi
 
     npm install
 .evm edit, import private key of burn wallet
